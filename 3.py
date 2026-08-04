@@ -11,6 +11,5 @@ elif marks>=70:
 
 elif marks >=60:
        print("Promoted")
-
 else :
        print("Fail")
